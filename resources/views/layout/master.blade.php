@@ -28,7 +28,6 @@
             </div>
         </div>
     </section>
-    @include('includes.footer')
     @include('includes.script')
 </body>
 

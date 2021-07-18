@@ -79,6 +79,7 @@
             </ul>
         </div>
         <!-- #Menu -->
+        @include('includes.footer')
 
     </aside>
     <!-- #END# Left Sidebar -->
